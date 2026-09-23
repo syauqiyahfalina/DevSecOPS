@@ -1,0 +1,41 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Toko Online",
+    "owner": "Kelompok",
+    "description": "Sistem Tokok online",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Wahyu"
+      },
+      {
+        "name": "Jihan"
+      },
+      {
+        "name": "Syauqiyah"
+      },
+      {
+        "name": "Kital"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Ddos Threat Dragon",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
